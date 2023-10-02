@@ -1,4 +1,5 @@
 # thesis-psychology-memories-of-emotion
+Memories are like data. Emotions are like setted states of being.
 The emotion’s memories. Memory’s emotions attempts to track and access emotions that are stored inside of emotions.
 
 
